@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Recipe+Management-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Recipe+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 AnyMeal Free Installer** — AnyMeal is a free, open-source recipe manager for Linux and Windows that stores recipes in a searchable database. Works without internet access, no account required. Full offline installation.
+**💻 AnyMeal Free Installer** — AnyMeal is a free recipe manager for Linux with a database of thousands of searchable recipes. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About AnyMeal
 
-AnyMeal is a free, open-source recipe manager for Linux and Windows that stores recipes in a searchable database. Import recipes in MealMaster format, search by ingredient or recipe name, scale servings, and print recipe cards. AnyMeal targets home cooks who want a simple, functional recipe database without recurring subscription costs.
+AnyMeal is a free recipe manager for Linux with a database of thousands of searchable recipes. It provides nutritional information, meal planning, ingredient-based search, and a clean interface for managing personal recipe collections.
 
 ---
 
 ## ❌ Problem: AnyMeal is hard to access
 
-- **Dated Interface** — Older visual design
-- **Limited Format Support** — MealMaster format import; limited web recipe import
-- **Mobile Integration** — No mobile companion app
-- **Development Activity** — Limited active development
+- **Linux Primary** — Best experience on Linux; Windows version may have compatibility issues
+- **Basic Interface** — Functional but not visually modern
+- **Limited Meal Planning** — Basic planning features compared to dedicated meal planning apps
+- **Small Recipe Database** — Ships with limited built-in recipes; user must build their own collection
 
 ---
 
@@ -121,7 +121,7 @@ AnyMeal is a free, open-source recipe manager for Linux and Windows that stores 
 
 ---
 
-**AnyMeal Free Installer** — AnyMeal is a free, open-source recipe manager for Linux and Windows that stores recipes in a searchable database. Install without internet connection today!
+**AnyMeal Free Installer** — AnyMeal is a free recipe manager for Linux with a database of thousands of searchable recipes. Install without internet connection today!
 
 <div align="center">
 
